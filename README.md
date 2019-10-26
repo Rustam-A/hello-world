@@ -1,2 +1,4 @@
 # hello-world
-JUst another repository
+Hi Humans !
+
+ I like juice and create design
